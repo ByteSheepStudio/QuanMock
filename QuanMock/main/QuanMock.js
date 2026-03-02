@@ -9,7 +9,7 @@ GitHub:https://github.com/SheepFJ
 ============ Quantumult X ============
 
 [rewrite_local]
-^https:\/\/www\.mock\.com\/.* url script-request-body https://raw.githubusercontent.com/SheepFJ/VidSheep/refs/heads/main/VidSheep3.1/main/api.js
+^https:\/\/www\.mock\.com\/.* url script-request-body https://raw.githubusercontent.com/ByteSheepStudio/QuanMock/refs/heads/main/QuanMock/main/main.js
 [mitm]
 hostname = www.mock.com
 
