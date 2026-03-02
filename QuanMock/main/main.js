@@ -273,8 +273,8 @@ function getHtml() {
     <meta name="apple-mobile-web-app-title" content="QuanMock">
     <meta name="theme-color" content="#f9fafb">
     
-    <link rel="icon" type="image/jpeg" href="https://raw.githubusercontent.com/ByteSheepStudio/QuanX_Mock/main/QuanX_Mock/static/img/logo.jpg">
-<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/ByteSheepStudio/QuanX_Mock/main/QuanX_Mock/static/img/logo.jpg">
+    <link rel="icon" type="image/jpeg" href="https://raw.githubusercontent.com/ByteSheepStudio/QuanMock/main/QuanMock/static/img/logo.jpg">
+<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/ByteSheepStudio/QuanMock/main/QuanMock/static/img/logo.jpg">
     
     <title>QuanMock 工作台</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -356,7 +356,7 @@ function getHtml() {
         <div class="w-[80vw] md:w-80 flex flex-col h-full bg-gray-50/50">
             <div class="px-5 pb-4 pt-4 border-b border-gray-200 bg-white flex flex-col safe-pt gap-4 flex-shrink-0 shadow-sm z-10">
                 <h1 class="text-lg font-extrabold text-gray-900 flex items-center tracking-tight">
-                    <img src="https://raw.githubusercontent.com/ByteSheepStudio/QuanX_Mock/main/QuanX_Mock/static/img/logo.jpg" class="w-8 h-8 rounded-lg mr-2.5 shadow-sm" alt="Logo">
+                    <img src="https://raw.githubusercontent.com/ByteSheepStudio/QuanMock/main/QuanMock/static/img/logo.jpg" class="w-8 h-8 rounded-lg mr-2.5 shadow-sm" alt="Logo">
                     QuanMock
                 </h1>
                 
